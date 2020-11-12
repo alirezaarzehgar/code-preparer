@@ -70,7 +70,9 @@ if you want to create your backups with tar you ca use `backup` command in your 
 
 ### create backup
 $ `backup patch`
+
 $ `backup minor`
+
 $ `backup major`
 
 by default we increase patch
