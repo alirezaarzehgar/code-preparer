@@ -20,8 +20,11 @@ this tools create backup and git tag version every time that you run your projec
 
 # installing
 $ `git clone https://github.com/alirezaarzehgar/code-preparer.git`
+
 $ `cd code-preparer`
+
 $ `sudo ./install.sh`
+
 
 # guide
 
